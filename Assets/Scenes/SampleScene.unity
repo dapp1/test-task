@@ -1388,7 +1388,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 730aa1033a2756346b5908edf9fbe9ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 1243299936542471090}
+  Player: {fileID: 1243299936542471093}
   Enemies: []
   Lose: {fileID: 2065721504}
   Win: {fileID: 527944048}
@@ -1872,7 +1872,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98fa2bf115616174da3132f7a380aca3, type: 3}
---- !u!114 &1243299936542471090 stripped
+--- !u!114 &1243299936542471093 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5115665549051153157, guid: 98fa2bf115616174da3132f7a380aca3, type: 3}
   m_PrefabInstance: {fileID: 1243299936542471087}
