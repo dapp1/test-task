@@ -83,7 +83,7 @@ public class Player : MonoBehaviour, IAnimations
             if (distance <= AttackRange)
             {
                 enemie = enemy;
-            } 
+            }
         }
 
         return enemie;
